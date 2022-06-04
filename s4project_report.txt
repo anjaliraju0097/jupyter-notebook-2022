@@ -1,0 +1,17 @@
+
+
+1)kaggle link:-https://www.kaggle.com/datasets/nupurgopali/depression-data-for-chatbot
+
+2)research paper link:-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7695525/?report=classic
+
+3)github link1= https://github.com/topics/depression-assistant-chatbot
+ 
+4)Refeerence1 = https://medium.com/analytics-vidhya/tackling-depression-with-machine-learning-via-chatbot-1e5f5546f36a
+
+5)Reference2 =http://saifmohammad.com/WebPages/EmotionIntensity-SharedTask.html
+
+6)ytb link1 = https://www.youtube.com/watch?v=a37BL0stIuM
+
+7)ytb link2 = https://www.youtube.com/watch?v=He0xK1x-vnI
+
+9)text box streamlit reference = https://pythonwife.com/working-with-text-input-in-streamlit/
